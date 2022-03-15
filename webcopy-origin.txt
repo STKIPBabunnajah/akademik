@@ -1,0 +1,1016 @@
+Uri: https://university.orangeandbronze.com/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/css/main.css
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\css\main.css
+Content Type: text/css
+
+Uri: https://university.orangeandbronze.com/assets/img/favicon.ico
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://university.orangeandbronze.com/training/tracks
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training\tracks.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training/other
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training\other.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training/all
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training\all.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training-solution
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training-solution.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/customized-training
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\customized-training.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/about/story
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\about\story.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/contact
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\contact.html
+Content Type: text/html
+
+Uri: https://www.orangeandbronze.com/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\index-1.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training_tracks/java-developer/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training_tracks\java-developer\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training_tracks/spring-developer/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training_tracks\spring-developer\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/java-framework/jpa-hibernate/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\java-framework\jpa-hibernate\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training_tracks/agile-manager/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training_tracks\agile-manager\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/java-framework/spring-cloud-developer-microservices/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\java-framework\spring-cloud-developer-microservices\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/java/core-java/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\java\core-java\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/agile/core-agile/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\agile\core-agile\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/python/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\python\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/java-framework/core-spring/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\java-framework\core-spring\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/selenium/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\selenium\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/sql/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\sql\index.htm
+Content Type: text/html
+
+Uri: https://www.globe.com.ph/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.cisco.com/c/en_ph/index.html
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\c\en_ph\index.html
+Content Type: text/html
+
+Uri: https://smart.com.ph/corporate
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\corporate.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training_tracks/automated-test/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training_tracks\automated-test\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/training_tracks/enterprise-architect/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\training_tracks\enterprise-architect\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/about/mission
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\about\mission.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/about/people
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\about\people.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/orangeandbronze
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\orangeandbronze.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/terms
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\terms.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/privacy
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-626631-15
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://university.orangeandbronze.com/assets/img/O&B_University_Logo.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\O&B_University_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-phone.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/training-home-icon.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\training-home-icon.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-arrow.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element1.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element1.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/img-heading.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-heading.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/java-online-training-philippines-UniversityHomepageImage.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\java-online-training-philippines-UniversityHomepageImage.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/SpringCloudDeveloper-MicroservicesTraining-HomepageBanner2.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\SpringCloudDeveloper-MicroservicesTraining-HomepageBanner2.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/Star-active.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\Star-active.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/Star-not-active.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\Star-not-active.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/gallery-6.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-award.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-award.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-globe.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-globe.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-home.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-home.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element2.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element2.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/client-globe.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-globe.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-ibm.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-ibm.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-cisco.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-cisco.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-smart.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-smart.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-accenture.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-accenture.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-pal.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-pal.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-hp.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-hp.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/hr.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\hr.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature1.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature1.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature2.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature2.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element3.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element3.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/title-software.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\title-software.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-calendar.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-book.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-book.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-arrow-white.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/img-trainingcard-1.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-trainingcard-1.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-trainingcard-2.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-trainingcard-2.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-trainingcard-3.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-trainingcard-3.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-trainingcard-5.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-trainingcard-5.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-trainingcard-4.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-trainingcard-4.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-feature-1.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-feature-1.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-feature-2.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-feature-2.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-feature-3.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-feature-3.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-feature-4.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-feature-4.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-feature-5.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-feature-5.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-feature-6.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-feature-6.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element6.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element6.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature3.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature3.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element7.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element7.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature4.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature4.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element8.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element8.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element9.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element9.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature5.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature5.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element4.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element4.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-blockquote.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-blockquote.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/client-3.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-3.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-1.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-1.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/client-2.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\client-2.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-miniphone.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-miniphone.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-minimail.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-minimail.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/social-fb.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\social-fb.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/social-twitter.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\social-twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/social-google.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\social-google.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/social-linkedin.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\social-linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\js\vendor\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://university.orangeandbronze.com/assets/js/vendor/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\js\vendor\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://university.orangeandbronze.com/assets/js/vendor/slick.min.js
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\js\vendor\slick.min.js
+Content Type: application/javascript
+
+Uri: https://university.orangeandbronze.com/assets/js/vendor/sticky.min.js
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\js\vendor\sticky.min.js
+Content Type: application/javascript
+
+Uri: https://university.orangeandbronze.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Exo+2:400,600
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\css.css
+Content Type: text/css
+
+Uri: https://university.orangeandbronze.com/assets/img/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://university.orangeandbronze.com/assets/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\slick.eot
+Content Type: application/octet-stream
+
+Uri: https://university.orangeandbronze.com/assets/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\slick-1.eot
+Content Type: application/octet-stream
+
+Uri: https://university.orangeandbronze.com/assets/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://university.orangeandbronze.com/assets/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://university.orangeandbronze.com/assets/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Regular.woff2
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Regular.woff
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Regular.otf
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Regular.otf.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Medium.woff2
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Medium.woff
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Medium.otf
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Medium.otf.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Bold.woff2
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Bold.woff
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://university.orangeandbronze.com/assets/fonts/AktivGrotesk-Bold.otf
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\fonts\AktivGrotesk-Bold.otf.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://university.orangeandbronze.com/assets/img/title-hello.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\title-hello.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-header.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-header.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-contact.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-contact.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature7.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature7.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/bg-element5.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\bg-element5.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/title-training.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\title-training.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/element-divider.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\element-divider.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/dot.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\dot.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/steps-ico-1.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\steps-ico-1.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/steps-ico-2.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\steps-ico-2.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/steps-ico-3.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\steps-ico-3.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/other_courses/devops-training/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\devops-training\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/db-optimization/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\db-optimization\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/html-css/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\html-css\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/javascript/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\javascript\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/jquery/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\jquery\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/angular/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\angular\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/intermediatepython/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\intermediatepython\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/git/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\git\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/junit/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\junit\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/bdd/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\bdd\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/agile-test-automation/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\agile-test-automation\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/postgresql/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\postgresql\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/mongodb/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\mongodb\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/soapui/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\soapui\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/jmeter/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\jmeter\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/dbunit/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\dbunit\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/meanstack/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\meanstack\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/other_courses/javamongo/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\other_courses\javamongo\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/course-devops.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-devops.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-database-optimization.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-database-optimization.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-html.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-html.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-js.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-js.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-jquery.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-jquery.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-angular.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-angular.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-python.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-python.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-git.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-git.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-sql.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-sql.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-php.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-php.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-mongo.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-mongo.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-jmeter.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-jmeter.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-mean.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-mean.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/course-javamongo.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\course-javamongo.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/java/agile-engineering/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\java\agile-engineering\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/java/java-enterprise/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\java\java-enterprise\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/agile/agile-erp/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\agile\agile-erp\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature8.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature8.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/set-ico-1.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\set-ico-1.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/set-ico-2.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\set-ico-2.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/set-ico-3.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\set-ico-3.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature9.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature9.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/img-feature10.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\img-feature10.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/steps-ico-5.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\steps-ico-5.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/steps-ico-6.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\steps-ico-6.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/steps-ico-4.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\steps-ico-4.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-marker.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-marker.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-mail.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15447.238205844506!2d121.0173883!3d14.5528809!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0:0x7b2417bf65e6fe5e!2sOrange+%26+Bronze+Software+Labs+Inc!5e0!3m2!1sen!2sph!4v1528785692858
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/java-course-cover.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\java-course-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/java-course1.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\java-course1.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/java-course2.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\java-course2.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/java-course4.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\java-course4.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/java-course3.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\java-course3.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/ico-chevron-down.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\ico-chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/btn-close.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\btn-close.svg
+Content Type: image/svg+xml
+
+Uri: https://12factor.net/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\index-3.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/spring-course-cover.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\spring-course-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/spring-course1.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\spring-course1.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/spring-course2.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\spring-course2.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/JPAHibernate-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\JPAHibernate-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/agile-course-cover.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\agile-course-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/agile-course1.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\agile-course1.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/agile-course2.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\agile-course2.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/agile-course3.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\agile-course3.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/agile-course4.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\agile-course4.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/distance-learning-program
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\distance-learning-program.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/agile-java-online-training-philippines_PageImage.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\agile-java-online-training-philippines_PageImage.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/agile-java-online-training-flow-philippines.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\agile-java-online-training-flow-philippines.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/java-online-training-philippines-discount-banner.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\java-online-training-philippines-discount-banner.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/SpringCloudDeveloper-MicroservicesTrainingBanner.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\SpringCloudDeveloper-MicroservicesTrainingBanner.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/CoreJavaAndCommonlyUsedLibraries-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\CoreJavaAndCommonlyUsedLibraries-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/CoreAgileWorkshopWithScrumExtremeProgrammingAndKanban-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\CoreAgileWorkshopWithScrumExtremeProgrammingAndKanban-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/PythonForBeginners-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\PythonForBeginners-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/CoreSpringTraining-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\CoreSpringTraining-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/SeleniumIDEAnsWebDriver-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\SeleniumIDEAnsWebDriver-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/SQLFundamentals-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\SQLFundamentals-cover.png
+Content Type: image/png
+
+Uri: https://www.ibm.com/ph-en
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\ph-en.html
+Content Type: text/html
+
+Uri: https://www.hp.com/ph-en/home.html
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\ph-en\home.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-4.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-4.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/spring-course3.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\spring-course3.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-1.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-1.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-2.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-2.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-3.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-3.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-5.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-5.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-6.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-6.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-7.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-7.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/test-course-8.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\test-course-8.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/architect-course-cover.jpg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\architect-course-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://university.orangeandbronze.com/assets/img/about-ico.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\about-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/mentor-calen.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\mentor-calen.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/mentor-dee.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\mentor-dee.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/control-prev.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\control-prev.svg
+Content Type: image/svg+xml
+
+Uri: https://university.orangeandbronze.com/assets/img/control-next.svg
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\control-next.svg
+Content Type: image/svg+xml
+
+Uri: https://twitter.com/orangeandbronze
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\orangeandbronze-1.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/%2Borangeandbronze&followup=https://plus.google.com/%2Borangeandbronze
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/enterprise/tdd/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\enterprise\tdd\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/DevOps-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\DevOps-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/DatabaseOptimization-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\DatabaseOptimization-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/HTML-CSS-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\HTML-CSS-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/JavaScript-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\JavaScript-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/jQuery-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\jQuery-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/AngularJS-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\AngularJS-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/IntermediatePython-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\IntermediatePython-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/IntroductionToGit-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\IntroductionToGit-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/JUnitFundamentals-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\JUnitFundamentals-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/BehaviorDrivenDevelopmentUsingCucumberAndConcordion-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\BehaviorDrivenDevelopmentUsingCucumberAndConcordion-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/AgileTestingAndTestAutomation-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\AgileTestingAndTestAutomation-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/PostgreSQLTraining-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\PostgreSQLTraining-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/MongoDB-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\MongoDB-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/WebServicesAPITestingWithSoapUI-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\WebServicesAPITestingWithSoapUI-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/LoadTestingWithJMeter-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\LoadTestingWithJMeter-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/DatabaseTestingAndTestDataManagementWithDBUnit-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\DatabaseTestingAndTestDataManagementWithDBUnit-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/FundamentalsOfMEANStackDevelopment-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\FundamentalsOfMEANStackDevelopment-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/UsingJavaWithMongoDB-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\UsingJavaWithMongoDB-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/AgileEngineeringAndBestPractices-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\AgileEngineeringAndBestPractices-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/JavaEnterpriseFundamentalsAndBestPractices-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\JavaEnterpriseFundamentalsAndBestPractices-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/java-framework/spring-boot/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\java-framework\spring-boot\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/CombinedSpringAndJPAHibernate-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\CombinedSpringAndJPAHibernate-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/AgileRequirementsEstimationAndPlanning-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\AgileRequirementsEstimationAndPlanning-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/enterprise/ooad/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\enterprise\ooad\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/Object-Oriented-Analysis-_-Design-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\Object-Oriented-Analysis-_-Design-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/enterprise/design-patterns/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\enterprise\design-patterns\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/DesignPatterns-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\DesignPatterns-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/enterprise/advanced-tdd/
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\enterprise\advanced-tdd\index.htm
+Content Type: text/html
+
+Uri: https://university.orangeandbronze.com/assets/img/AdvancedTestDrivenDevelopment-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\AdvancedTestDrivenDevelopment-cover.png
+Content Type: image/png
+
+Uri: https://university.orangeandbronze.com/assets/img/TestDrivenDevelopmentInJava-cover.png
+File Name: C:\Downloaded Web Sites\university.orangeandbronze.com\assets\img\TestDrivenDevelopmentInJava-cover.png
+Content Type: image/png
+

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsOdC6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWsOdC6.ttf) format('truetype');
+}
