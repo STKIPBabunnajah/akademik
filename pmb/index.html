@@ -1,13 +1,4 @@
-<?php
-session_start();
-$mydata = simplexml_load_file("files/akun.xml");
 
-     for ($i=0; $i < count($mydata);++$i)
-     $loginname = $mydata->login_details[$i]->login_name;
-
-if($_SESSION['name']=="$loginname")
-{
-?>
 
 
 <!DOCTYPE html>
@@ -36,7 +27,6 @@ if($_SESSION['name']=="$loginname")
   <style id="__jsx-4292405320">.b.jsx-4292405320{border:1px solid tomato;}</style></head><body><div id="__next">
   <nav class="jsx-4292405320 navbar navbar-expand-lg my-navbar">
     <div class="jsx-4292405320 container navbar-container">
-    <a href="" class="jsx-4292405320 navbar-brand">Cari NIM</a>
       <form action="" class="jsx-4292405320 form-inline form-top">
     <div class="jsx-4292405320 input-group w-100 flex-nowrap">
       <input type="text" placeholder="Cari NIM Kamu" class="jsx-4292405320 form-control top-search"/>
@@ -46,10 +36,12 @@ if($_SESSION['name']=="$loginname")
           <path fill="#c5ffff" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z" class="jsx-4292405320">
           </path>
 		  </svg>
-		  </span>
+		</span>
       </div>
         </div>
       </form>
+	  &ensp; &ensp; &ensp;
+	  <a href="logout.php" class="jsx-4292405320 navbar-brand">Logout</a>
     </div>
   </nav>
   <section class="jsx-4292405320 app-container m-auto">
@@ -160,9 +152,6 @@ if($_SESSION['name']=="$loginname")
       <img src="assets/imgs/6.png" alt="" class="jsx-4292405320 w-100"/>
     </div>
 	
-	<?php
-	echo "<a href='logout.php'>Logout</a>";
-	?>
   </section>
   
   <section class="jsx-4292405320 bottom-navigator-section">
@@ -196,11 +185,7 @@ if($_SESSION['name']=="$loginname")
           <a class="jsx-4292405320 d-flex flex-column" href="index.php">
             <img src="assets/icons/account_navbar.svg" alt="" class="jsx-4292405320"/>
             <span class="jsx-4292405320 bottom-title">
-			<?php
-			echo $_SESSION['name'];
-
-			?>
-			</span>
+			Budi			</span>
           </a>
         </li>
       </ul>
@@ -224,15 +209,4 @@ if($_SESSION['name']=="$loginname")
   <script src="_next/static/t6HCfl27eub3Iw79Afb-K/_ssgManifest.js" async=""></script>
   </body>
 </html>
-<?php
-
-}
-else
-{
-header("Location:login.php");
-}
-echo "&nbsp;&nbsp;&nbsp;";
-
-echo "</br></br></br>";
-
-?>
+&nbsp;&nbsp;&nbsp;</br></br></br>
